@@ -58,6 +58,9 @@ PRD2.核心价值
 
 #### 产品原型
 ##### 一、交互及界面设计
+
+
+##### 二、信息设计
 - 人流量统计界面
 ![人流量统计](https://upload-images.jianshu.io/upload_images/9513869-9a647501b24ed8ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -66,7 +69,11 @@ PRD2.核心价值
 ![生成二维码](https://upload-images.jianshu.io/upload_images/9513869-6f3a50c7354c5dad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 扫描展物获取信息
+
 ![扫描展物](https://upload-images.jianshu.io/upload_images/9513869-f326e2d230b2de99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![结果](https://upload-images.jianshu.io/upload_images/9513869-fca5533f6a1e1379.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+##### 三、原型文档
+- [在线查看原型]
+- [原型下载]
