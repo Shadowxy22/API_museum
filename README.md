@@ -75,5 +75,5 @@ PRD2.核心价值
 ![结果](https://upload-images.jianshu.io/upload_images/9513869-fca5533f6a1e1379.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ##### 三、原型文档
-- [在线查看原型]
-- [原型下载]
+- [在线查看原型]()
+- [原型下载](https://github.com/Shadowxy22/museum_axure)
