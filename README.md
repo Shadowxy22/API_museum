@@ -57,3 +57,16 @@ PRD2.核心价值
 博物馆需要检测管内有无危险行为发生|危险行为识别api|重要
 
 #### 产品原型
+##### 一、交互及界面设计
+- 人流量统计界面
+![人流量统计](https://upload-images.jianshu.io/upload_images/9513869-9a647501b24ed8ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 人脸识别检票界面
+![人脸识别](https://upload-images.jianshu.io/upload_images/9513869-f268e46b2e93121e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![生成二维码](https://upload-images.jianshu.io/upload_images/9513869-6f3a50c7354c5dad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 扫描展物获取信息
+![扫描展物](https://upload-images.jianshu.io/upload_images/9513869-f326e2d230b2de99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![结果](https://upload-images.jianshu.io/upload_images/9513869-fca5533f6a1e1379.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
